@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+.env
+*.db
+
+# Node
+node_modules/
+.next/
+out/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Scraped data (temp files only)
+backend/scraped_data/config_*.json
+backend/scraped_data/output_*.json
+backend/scraped_data/status_*.json
+backend/scraped_data/stop_*.flag
+
+# Test files
+_test_*.py

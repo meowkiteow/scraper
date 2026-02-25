@@ -1,0 +1,664 @@
+[
+  {
+    "id": "967b63c2-4029-42c2-acca-ae8a546b0e7e",
+    "user_id": "4f449ad0-a7f9-4b94-bf9c-022305578dd1",
+    "query": "dentist",
+    "location": "dehradun",
+    "total": 3,
+    "timestamp": "2026-02-24T22:14:24.401752",
+    "results": [
+      {
+        "name": "Doon Dental Square- best dentist in Dehradun",
+        "phone": "070888 03305",
+        "website": "No website on Maps",
+        "email": "",
+        "rating": "5.0",
+        "reviews": "62"
+      },
+      {
+        "name": "Dentara - Best Dentist in Dehradun | Braces | Implants | Dental Clinic | RCT | Clinical Cosmetologist",
+        "phone": "082798 08323",
+        "website": "http://www.dentara.in/",
+        "email": "",
+        "rating": "4.9",
+        "reviews": "166"
+      },
+      {
+        "name": "Dr. Verma’s",
+        "phone": "075002 25225",
+        "website": "https://drvermasdentalclinics.in/",
+        "email": "",
+        "rating": "4.8",
+        "reviews": "343"
+      }
+    ]
+  },
+  {
+    "id": "1a2ed4d0-4d99-434d-8b2b-52e23926535d",
+    "user_id": "50b931cd-2068-4371-add9-20ec74fda1c2",
+    "query": "dentist",
+    "location": "dehradun",
+    "total": 8,
+    "timestamp": "2026-02-24T22:17:38.417666",
+    "results": [
+      {
+        "name": "Dental Plus Clinic / Dr. Jigyasa Bhardwaj",
+        "phone": "087557 03677",
+        "website": "https://www.facebook.com/Dental-Plus-Implant-and-Cosmetic-Center-631492553615912/",
+        "email": "None found",
+        "rating": "5.0",
+        "reviews": "176"
+      },
+      {
+        "name": "Dr. Panwar's Dental Clinic | Root Canal & Implant Centre",
+        "phone": "073109 69039",
+        "website": "https://panwardental.com/",
+        "email": "info@panwardental.com, drpanwarsdentalclinic@gmail.com",
+        "rating": "4.9",
+        "reviews": "37"
+      },
+      {
+        "name": "Dr. Verma’s",
+        "phone": "075002 25225",
+        "website": "https://drvermasdentalclinics.in/",
+        "email": "sudhanshuverma19842022@yahoo.comhours, info@dentalclinic.com",
+        "rating": "4.8",
+        "reviews": "343"
+      },
+      {
+        "name": "Dentara - Best Dentist in Dehradun | Braces | Implants | Dental Clinic | RCT | Clinical Cosmetologist",
+        "phone": "082798 08323",
+        "website": "http://www.dentara.in/",
+        "email": "contact@dentara.in",
+        "rating": "4.9",
+        "reviews": "166"
+      },
+      {
+        "name": "AIMC Dental Care and Implant centre",
+        "phone": "087557 84124",
+        "website": "https://aimcdentalcare.com/",
+        "email": "shaikhahmed687@gmail.com",
+        "rating": "4.9",
+        "reviews": "345"
+      },
+      {
+        "name": "Tarun Dental Care Centre",
+        "phone": "088595 44167",
+        "website": "No website on Maps",
+        "email": "None found",
+        "rating": "5.0",
+        "reviews": "5"
+      },
+      {
+        "name": "Dental Impression",
+        "phone": "081710 48085",
+        "website": "No website on Maps",
+        "email": "None found",
+        "rating": "4.5",
+        "reviews": "13"
+      },
+      {
+        "name": "Dr.Mehta's Dental Centre",
+        "phone": "081715 54838",
+        "website": "https://drsiddharthdhanda.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu",
+        "email": "None found",
+        "rating": "3.9",
+        "reviews": "38"
+      }
+    ]
+  },
+  {
+    "id": "43feb2c5-c379-4798-9f25-3fdf6fea32e8",
+    "user_id": "50b931cd-2068-4371-add9-20ec74fda1c2",
+    "query": "dentist",
+    "location": "dehradun",
+    "total": 3,
+    "timestamp": "2026-02-25T06:53:32.298034",
+    "results": [
+      {
+        "name": "Bharat Dental Hospital - Best Dental clinic in Dehradun",
+        "phone": "070886 77608",
+        "website": "https://bharatdentalclinic.com/",
+        "email": "None found",
+        "rating": "4.9",
+        "reviews": "842"
+      },
+      {
+        "name": "AGRAWAL DENTAL CLINIC",
+        "phone": "094567 56700",
+        "website": "https://www.doondentist.com/",
+        "email": "None found",
+        "rating": "4.8",
+        "reviews": "736"
+      },
+      {
+        "name": "Dr.Pal's Multispeciality Dental Care",
+        "phone": "088948 81616",
+        "website": "No website on Maps",
+        "email": "None found",
+        "rating": "4.9",
+        "reviews": "156"
+      }
+    ]
+  },
+  {
+    "id": "44d8acd3-61dc-4f12-999a-00e8b9bfe713",
+    "user_id": "8d2021ae-12f4-40e5-ae48-625461c8dc8b",
+    "query": "dentists",
+    "location": "New York",
+    "total": 2,
+    "timestamp": "2026-02-25T06:56:20.070353",
+    "results": [
+      {
+        "name": "Astoria Modern Family Dental",
+        "phone": "N/A",
+        "website": "No website on Maps",
+        "email": "None found",
+        "rating": "N/A",
+        "reviews": "0"
+      },
+      {
+        "name": "Rise Dental Studio - Dr. Justin Rashbaum",
+        "phone": "+1 646-906-8645",
+        "website": "https://www.risedentalstudio.com/",
+        "email": "hello@risedentalstudio.com",
+        "rating": "4.7",
+        "reviews": "65"
+      }
+    ]
+  },
+  {
+    "id": "0d8af6bc-633c-4a95-a1c1-721ad12e09d6",
+    "user_id": "271ed641-7380-4eb1-88e3-25ca8b7144df",
+    "query": "restaurants",
+    "location": "Austin TX",
+    "total": 2,
+    "timestamp": "2026-02-25T07:05:04.433083",
+    "results": [
+      {
+        "name": "Ranch 616",
+        "phone": "N/A",
+        "website": "No website on Maps",
+        "email": "None found",
+        "rating": "N/A",
+        "reviews": "0"
+      },
+      {
+        "name": "Corner Restaurant",
+        "phone": "+1 512-608-4488",
+        "website": "https://www.cornerrestaurantaustin.com/?utm_source=google&utm_medium=organic&utm_campaign=business_listing",
+        "email": "None found",
+        "rating": "4.8",
+        "reviews": "17314"
+      }
+    ]
+  },
+  {
+    "id": "eaf75122-89a4-4cd0-8e19-4a32ce94a977",
+    "user_id": "50b931cd-2068-4371-add9-20ec74fda1c2",
+    "query": "dentist",
+    "location": "dehradun",
+    "total": 5,
+    "timestamp": "2026-02-25T07:08:48.112998",
+    "results": [
+      {
+        "name": "Bharat Dental Hospital - Best Dental clinic in Dehradun",
+        "phone": "N/A",
+        "website": "No website on Maps",
+        "email": "None found",
+        "rating": "N/A",
+        "reviews": "0"
+      },
+      {
+        "name": "Dr.Pal's Multispeciality Dental Care",
+        "phone": "N/A",
+        "website": "No website on Maps",
+        "email": "None found",
+        "rating": "N/A",
+        "reviews": "0"
+      },
+      {
+        "name": "DENTOCARE",
+        "phone": "N/A",
+        "website": "No website on Maps",
+        "email": "None found",
+        "rating": "N/A",
+        "reviews": "0"
+      },
+      {
+        "name": "AGRAWAL DENTAL CLINIC",
+        "phone": "N/A",
+        "website": "No website on Maps",
+        "email": "None found",
+        "rating": "N/A",
+        "reviews": "0"
+      },
+      {
+        "name": "SMILING AGES DENTAL CLINIC & IMPLANT CENTRE | Dental Clinic | Best Dentist in Dehradun | Prosthodontist | Pedodontist |",
+        "phone": "N/A",
+        "website": "No website on Maps",
+        "email": "None found",
+        "rating": "N/A",
+        "reviews": "0"
+      }
+    ]
+  },
+  {
+    "id": "ea40787d-a341-4cca-9075-1ec3f61d1574",
+    "user_id": "8d2021ae-12f4-40e5-ae48-625461c8dc8b",
+    "query": "plumbers",
+    "location": "Miami FL",
+    "total": 2,
+    "timestamp": "2026-02-25T07:21:59.255149",
+    "results": [
+      {
+        "name": "Sewer Solutions /Pipe lining /Septic",
+        "phone": "N/A",
+        "website": "No website on Maps",
+        "email": "",
+        "rating": "N/A",
+        "reviews": "0"
+      },
+      {
+        "name": "Miami 24/7 Plumbing - Miami Emergency Plumbers",
+        "phone": "+1 305-440-0878",
+        "website": "https://www.miami247plumbing.com/",
+        "email": "",
+        "rating": "4.8",
+        "reviews": "231"
+      }
+    ]
+  },
+  {
+    "id": "15e27ee4-9dd0-40f3-afe2-995c0441cb62",
+    "user_id": "8d2021ae-12f4-40e5-ae48-625461c8dc8b",
+    "query": "plumbers",
+    "location": "Miami FL",
+    "total": 2,
+    "timestamp": "2026-02-25T07:22:22.045405",
+    "results": [
+      {
+        "name": "Main Plumbing Services",
+        "phone": "N/A",
+        "website": "No website on Maps",
+        "email": "",
+        "rating": "N/A",
+        "reviews": "0"
+      },
+      {
+        "name": "Roto-Rooter Plumbing & Water Cleanup",
+        "phone": "+1 305-661-7838",
+        "website": "https://www.rotorooter.com/miami/?utm_source=Google&utm_medium=organic&utm_campaign=gmb&utm_content=website",
+        "email": "",
+        "rating": "4.7",
+        "reviews": "2281"
+      }
+    ]
+  },
+  {
+    "id": "30bb356a-3f22-4f6c-abbe-f981d3b06383",
+    "user_id": "50b931cd-2068-4371-add9-20ec74fda1c2",
+    "query": "dentist",
+    "location": "texas",
+    "total": 20,
+    "timestamp": "2026-02-25T07:29:21.170223",
+    "results": [
+      {
+        "name": "Texas City Dental - Dentist in Texas City",
+        "phone": "+1 409-419-2222",
+        "website": "https://txcitydental.com/?y_source=1_MTMzMjM2MTctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+        "email": "None found",
+        "rating": "4.8",
+        "reviews": "710"
+      },
+      {
+        "name": "Texas Dental",
+        "phone": "+1 972-290-1388",
+        "website": "https://www.texasdentalpa.com/?utm_source=GBPlisting&utm_medium=organic",
+        "email": "None found",
+        "rating": "4.9",
+        "reviews": "1471"
+      },
+      {
+        "name": "Texas Dental",
+        "phone": "+1 210-661-4211",
+        "website": "https://www.texas-dental.com/",
+        "email": "None found",
+        "rating": "4.9",
+        "reviews": "625"
+      },
+      {
+        "name": "Texas Dental Center",
+        "phone": "+1 832-831-9101",
+        "website": "https://www.texasdentalcenter.com/?utm_source=GMB&utm_medium=Organic&utm_campaign=LocalBusiness",
+        "email": "None found",
+        "rating": "4.9",
+        "reviews": "971"
+      },
+      {
+        "name": "Central Texas Family Dental",
+        "phone": "+1 254-690-3600",
+        "website": "https://www.centexdds.com/",
+        "email": "None found",
+        "rating": "4.9",
+        "reviews": "210"
+      },
+      {
+        "name": "Texan Dental, P.A.",
+        "phone": "+1 713-218-0500",
+        "website": "https://www.texandental.com/?utm_source=GMB&utm_medium=organic&utm_campaign=DevOptimization&utm_content=Website",
+        "email": "None found",
+        "rating": "4.9",
+        "reviews": "654"
+      },
+      {
+        "name": "Texas Smiles dental center",
+        "phone": "+1 210-432-0909",
+        "website": "http://www.texassmilesusa.com/",
+        "email": "None found",
+        "rating": "4.9",
+        "reviews": "578"
+      },
+      {
+        "name": "Today's Dental",
+        "phone": "+1 936-327-2151",
+        "website": "https://www.todaysdentaltx.com/",
+        "email": "None found",
+        "rating": "4.9",
+        "reviews": "1001"
+      },
+      {
+        "name": "Texas Dental Specialists - Dr. Omar Yousuf",
+        "phone": "+1 214-619-6329",
+        "website": "https://www.texasdentalspecialists.com/",
+        "email": "None found",
+        "rating": "4.9",
+        "reviews": "380"
+      },
+      {
+        "name": "Cen-Tex Dental",
+        "phone": "+1 254-213-6300",
+        "website": "https://www.cen-texdental.com/",
+        "email": "None found",
+        "rating": "4.9",
+        "reviews": "226"
+      },
+      {
+        "name": "South Texas Dental",
+        "phone": "N/A",
+        "website": "No website on Maps",
+        "email": "None found",
+        "rating": "N/A",
+        "reviews": "0"
+      },
+      {
+        "name": "Central Texas Dental Care",
+        "phone": "+1 254-470-7868",
+        "website": "https://hewittdentist.com/",
+        "email": "None found",
+        "rating": "4.8",
+        "reviews": "379"
+      },
+      {
+        "name": "Texas Avenue Dental",
+        "phone": "+1 979-693-5130",
+        "website": "http://www.texasavedental.com/",
+        "email": "None found",
+        "rating": "4.7",
+        "reviews": "117"
+      },
+      {
+        "name": "Clinica Dental of Texas",
+        "phone": "+1 214-340-1776",
+        "website": "https://clinicadentaltx.com/",
+        "email": "contact@clinicadentaltx.com",
+        "rating": "4.6",
+        "reviews": "168"
+      },
+      {
+        "name": "Texas Dental Clinic - implant & cosmetic dentistry",
+        "phone": "+1 956-467-1535",
+        "website": "https://dentalimplantsmexico.com.mx/",
+        "email": "None found",
+        "rating": "4.7",
+        "reviews": "189"
+      },
+      {
+        "name": "Turner Dental",
+        "phone": "+1 325-425-2789",
+        "website": "https://www.turnerdentaltx.com/?utm_source=google&utm_medium=google_business_profile&utm_campaign=website_click",
+        "email": "None found",
+        "rating": "4.9",
+        "reviews": "489"
+      },
+      {
+        "name": "6 to 9 Dental Texas",
+        "phone": "+1 210-333-6911",
+        "website": "http://www.vphumphrey2dds.com/",
+        "email": "6to9dental@gmail.com",
+        "rating": "4.9",
+        "reviews": "122"
+      },
+      {
+        "name": "North Texas Family Dental & Implant Center",
+        "phone": "+1 940-458-9000",
+        "website": "https://www.northtexasfamilydental.com/",
+        "email": "info@northtexasfamilydental.com,  info@northtexasfamilydental.com",
+        "rating": "4.7",
+        "reviews": "341"
+      },
+      {
+        "name": "North Texas Family & Cosmetic Dentistry",
+        "phone": "+1 972-278-9901",
+        "website": "https://www.ntfcdentistry.com/?utm_source=gmb_listing&utm_medium=organic",
+        "email": "infontfcd@p4dentists.com",
+        "rating": "4.9",
+        "reviews": "315"
+      },
+      {
+        "name": "Texas Capital Dental",
+        "phone": "+1 512-832-1121",
+        "website": "http://www.texascapitaldental.com/",
+        "email": "None found",
+        "rating": "4.5",
+        "reviews": "52"
+      }
+    ]
+  },
+  {
+    "id": "3918c16c-e3fa-4637-9a9e-51d1fdd74503",
+    "user_id": "50b931cd-2068-4371-add9-20ec74fda1c2",
+    "query": "dentist",
+    "location": "texas",
+    "total": 12,
+    "timestamp": "2026-02-25T07:31:52.029876",
+    "results": [
+      {
+        "name": "Texas Choice Dental",
+        "phone": "+1 281-972-8000",
+        "website": "https://www.texaschoice.dental/",
+        "email": "tcdhumble@gmail.com",
+        "rating": "4.8",
+        "reviews": "277"
+      },
+      {
+        "name": "Texas Dental Arts",
+        "phone": "+1 817-431-1860",
+        "website": "https://www.texasdentalarts.com/",
+        "email": "None found",
+        "rating": "5.0",
+        "reviews": "187"
+      },
+      {
+        "name": "West Kerr Dental",
+        "phone": "+1 830-367-1171",
+        "website": "https://www.westkerrdental.com/",
+        "email": "None found",
+        "rating": "4.9",
+        "reviews": "269"
+      },
+      {
+        "name": "Abilene Dental",
+        "phone": "+1 325-326-5914",
+        "website": "http://abilenedental.com/",
+        "email": "None found",
+        "rating": "4.9",
+        "reviews": "548"
+      },
+      {
+        "name": "Smile Crafters",
+        "phone": "+1 325-673-8164",
+        "website": "https://smilecrafterstexas.com/locations/abilene/",
+        "email": "None found",
+        "rating": "4.7",
+        "reviews": "633"
+      },
+      {
+        "name": "Southwest Dental Group",
+        "phone": "+1 325-244-2434",
+        "website": "https://southwestdentalgroup.com/",
+        "email": "None found",
+        "rating": "4.9",
+        "reviews": "1873"
+      },
+      {
+        "name": "Chimney Rock Family Dental",
+        "phone": "+1 325-241-9042",
+        "website": "https://www.chimneyrockfamilydental.com/",
+        "email": "None found",
+        "rating": "5.0",
+        "reviews": "710"
+      },
+      {
+        "name": "Post Family Dentistry",
+        "phone": "+1 806-495-3600",
+        "website": "https://postfamilydentistry.com/",
+        "email": "info@postfamilydentistry.com",
+        "rating": "4.9",
+        "reviews": "134"
+      },
+      {
+        "name": "North Texas Dental Associates",
+        "phone": "+1 972-535-6647",
+        "website": "https://www.ntdassociates.com/",
+        "email": "None found",
+        "rating": "4.8",
+        "reviews": "646"
+      },
+      {
+        "name": "Crown Dental",
+        "phone": "+1 940-325-4200",
+        "website": "https://familysmilesdentist.com/locations/mineral-wells-crown-dental/",
+        "email": "None found",
+        "rating": "4.4",
+        "reviews": "759"
+      },
+      {
+        "name": "Star Dental",
+        "phone": "+1 817-483-1692",
+        "website": "https://stardentalarlington.com/",
+        "email": "contactstardentalarlington@yahoo.com",
+        "rating": "4.8",
+        "reviews": "237"
+      },
+      {
+        "name": "Texas Dentistry and Braces",
+        "phone": "+1 972-329-4200",
+        "website": "https://mesquite.txdentistryandbraces.com/",
+        "email": "None found",
+        "rating": "4.7",
+        "reviews": "239"
+      }
+    ]
+  },
+  {
+    "id": "5e14aff5-9991-4202-9ed2-6539bb892144",
+    "user_id": "50b931cd-2068-4371-add9-20ec74fda1c2",
+    "query": "dentist",
+    "location": "texas",
+    "total": 10,
+    "timestamp": "2026-02-25T07:33:34.590268",
+    "results": [
+      {
+        "name": "Texas Dentistry and Braces",
+        "phone": "+1 972-329-4200",
+        "website": "https://mesquite.txdentistryandbraces.com/",
+        "email": "None found",
+        "rating": "4.7",
+        "reviews": "239"
+      },
+      {
+        "name": "North Texas Dental Associates",
+        "phone": "+1 972-535-6647",
+        "website": "https://www.ntdassociates.com/",
+        "email": "None found",
+        "rating": "4.8",
+        "reviews": "646"
+      },
+      {
+        "name": "Texas Choice Dental",
+        "phone": "+1 281-972-8000",
+        "website": "https://www.texaschoice.dental/",
+        "email": "tcdhumble@gmail.com",
+        "rating": "4.8",
+        "reviews": "277"
+      },
+      {
+        "name": "Midtown Family Dentistry",
+        "phone": "+1 469-529-6016",
+        "website": "https://www.midtowndentistrydallas.com/",
+        "email": "None found",
+        "rating": "4.9",
+        "reviews": "3423"
+      },
+      {
+        "name": "Texas Dental Arts",
+        "phone": "+1 817-431-1860",
+        "website": "https://www.texasdentalarts.com/",
+        "email": "None found",
+        "rating": "5.0",
+        "reviews": "187"
+      },
+      {
+        "name": "Texas Star Dental Center",
+        "phone": "+1 210-523-2700",
+        "website": "https://www.texasstardentalcenter.com/",
+        "email": "None found",
+        "rating": "4.3",
+        "reviews": "35"
+      },
+      {
+        "name": "The Houston Dentists",
+        "phone": "+1 346-202-3432",
+        "website": "https://www.drfrazar.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing",
+        "email": "info@drfrazar.com, 668-7137info@drfrazar.comhoursmon",
+        "rating": "5.0",
+        "reviews": "700"
+      },
+      {
+        "name": "Fort Worth Dental",
+        "phone": "+1 817-592-8763",
+        "website": "https://fortworthdental.com/",
+        "email": "None found",
+        "rating": "4.9",
+        "reviews": "1106"
+      },
+      {
+        "name": "Reality Bites Dental - Texas",
+        "phone": "+1 210-399-5951",
+        "website": "https://www.realitybitesdental.com/",
+        "email": "None found",
+        "rating": "4.8",
+        "reviews": "312"
+      },
+      {
+        "name": "Plainview West Texas Dental Associates",
+        "phone": "+1 806-221-2240",
+        "website": "https://plainviewdentists.com/?utm_source=gmb&utm_medium=organic",
+        "email": "None found",
+        "rating": "4.9",
+        "reviews": "134"
+      }
+    ]
+  }
+]
