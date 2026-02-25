@@ -128,8 +128,8 @@ class ApiClient {
 
     // ── Steps ──
     addStep(campaignId, data) { return this.post(`/api/campaigns/${campaignId}/steps`, data); }
-    updateStep(stepId, data) { return this.put(`/api/steps/${stepId}`, data); }
-    deleteStep(stepId) { return this.delete(`/api/steps/${stepId}`); }
+    updateStep(stepId, data) { return this.put(`/api/campaigns/steps/${stepId}`, data); }
+    deleteStep(stepId) { return this.delete(`/api/campaigns/steps/${stepId}`); }
 
     // ── Leads ──
     getLeads(params = {}) {

@@ -63,7 +63,7 @@ app.add_middleware(
 app.include_router(auth.router, prefix="/api", tags=["auth"])
 app.include_router(accounts.router, prefix="/api/accounts", tags=["accounts"])
 app.include_router(campaigns.router, prefix="/api/campaigns", tags=["campaigns"])
-app.include_router(steps.router, prefix="/api", tags=["steps"])
+app.include_router(steps.router, prefix="/api/campaigns", tags=["steps"])
 app.include_router(leads.router, prefix="/api/leads", tags=["leads"])
 app.include_router(inbox.router, prefix="/api/inbox", tags=["inbox"])
 app.include_router(analytics.router, prefix="/api/analytics", tags=["analytics"])
