@@ -113,6 +113,7 @@ class ApiClient {
     checkDns(id) { return this.post(`/api/accounts/${id}/check-dns`); }
     toggleWarmup(id) { return this.post(`/api/accounts/${id}/warmup/toggle`); }
     getWarmupStats(id) { return this.get(`/api/accounts/${id}/warmup/stats`); }
+    quickSend(id, data) { return this.post(`/api/accounts/${id}/quick-send`, data); }
 
     // ── Campaigns ──
     getCampaigns() { return this.get('/api/campaigns'); }

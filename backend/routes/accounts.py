@@ -158,6 +158,41 @@ def check_dns(account_id: str, user: User = Depends(get_current_user), db: Sessi
     return result
 
 
+class QuickSendRequest(BaseModel):
+    to_email: str
+    subject: str
+    body_html: str
+
+
+@router.post("/{account_id}/quick-send")
+def quick_send(account_id: str, req: QuickSendRequest, user: User = Depends(get_current_user), db: Session = Depends(get_db)):
+    """Send a single email to any recipient directly (no campaign needed)."""
+    account = _get_account(db, user.id, account_id)
+
+    if account.sends_today >= account.daily_limit:
+        raise HTTPException(429, f"Daily limit reached ({account.daily_limit}). Try again tomorrow.")
+
+    success, result = send_email(
+        smtp_host=account.smtp_host, smtp_port=account.smtp_port,
+        smtp_username=account.smtp_username,
+        smtp_password_encrypted=account.smtp_password_encrypted,
+        from_email=account.email, from_name=account.from_name,
+        to_email=req.to_email, subject=req.subject,
+        body_html=req.body_html, signature_html=account.signature_html or "",
+    )
+
+    if success:
+        account.sends_today += 1
+        account.last_sent_at = datetime.utcnow()
+        account.last_error = None
+        db.commit()
+        return {"success": True, "message": f"Email sent to {req.to_email}!"}
+    else:
+        account.last_error = result
+        db.commit()
+        return {"success": False, "message": result}
+
+
 @router.post("/{account_id}/warmup/toggle")
 def toggle_warmup(account_id: str, user: User = Depends(get_current_user), db: Session = Depends(get_db)):
     account = _get_account(db, user.id, account_id)
